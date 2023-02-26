@@ -5,7 +5,7 @@
         <title>Welcome!</title>
     </head>
     <body>
-        <h1>Fun Place</h1>
+        <h1>Hello</h1>
         <ul>
             <p><a href="licks.php">licks</a></p>
             <p><a href="songs.php">songs</a></p>
@@ -13,7 +13,8 @@
         </ul>
         <form action="process_create.php" method="POST">
             <p><input type="text" name="title" placeholder="title"></p>
-            <p><textarea name = "description" ></textarea></p>
+            <p><textarea name = "description" placeholder="description"></textarea></p>
             <p><input type="submit"></p>
+        </form>
     </body>   
 </html>

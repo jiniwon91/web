@@ -5,7 +5,7 @@
         <title>Welcome!</title>
     </head>
     <body>
-        <h1>Fun Place</h1>
+        <h1>Hello</h1>
         <ul>
             <p><a href="licks.php">licks</a></p>
             <p><a href="songs.php">songs</a></p>
